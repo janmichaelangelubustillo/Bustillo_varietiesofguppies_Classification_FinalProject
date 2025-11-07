@@ -1,1 +1,1 @@
-# Bustillo_varietiesofguppies_Classification_FinalProject
+# Bustillo_varietiesofmaleguppies_Classification_FinalProject
